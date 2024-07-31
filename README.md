@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou vncandrade</h1>
+<h1 align="center">Olá 👋, Eu sou Vinícius</h1>
 <h3 align="center">Focado na aprendizagem contínua em Dados</h3>
 
 - 🌱 Estou aprendendo **Power BI, Python, SQL**
